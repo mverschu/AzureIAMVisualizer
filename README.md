@@ -32,7 +32,7 @@ This is a Python-based web application that visualizes Azure Identity and Access
 
 2. **Prepare Your IAM Data:** Ensure you have your IAM data in a CSV file (e.g., `iam_data.csv`) that contains relevant information about roles, users, and object types.
 
-![image](https://github.com/mverschu/AzureIAMVisualizer/assets/69352107/48bdf34a-7d27-4a44-afa1-a7413dae8f90)
+![image](https://github.com/mverschu/AzureIAMVisualizer/assets/69352107/1d487062-016d-4985-a3f2-6e5f5c934841)
 
 3. **Run the App:**
 
