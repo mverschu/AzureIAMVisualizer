@@ -4,7 +4,7 @@ Ever found yourself drowning in the maze of permissions and roles within Azure? 
 
 This is a Python-based web application that visualizes Azure Identity and Access Management (IAM) relationships using Plotly and Dash. The app reads IAM data from a CSV file and allows users to interactively explore the relationships between roles, users, and object types.
 
-![image](https://github.com/mverschu/AzureIAMVisualizer/assets/69352107/e6225c66-9af8-4160-a4aa-3f3e1815fbe9)
+![Peek 2023-08-16 21-47](https://github.com/mverschu/AzureIAMVisualizer/assets/69352107/eb4223fb-81e3-4e7b-9a1c-c12bd4ea86ba)
 
 ## Table of Contents
 
