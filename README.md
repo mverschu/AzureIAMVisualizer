@@ -51,3 +51,7 @@ This is a Python-based web application that visualizes Azure Identity and Access
       3. Make your changes and commit them: `git commit -m 'Add some feature'`.
       4. Push the changes to your fork: `git push origin feature/my-feature`.
       5. Open a pull request in this repository.
+
+### ToDo
+
+1. Add exclusion option.
