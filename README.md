@@ -9,10 +9,7 @@ This is a Python-based web application that visualizes Azure Identity and Access
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Installation/Usage](#installation)
 
 ## Features
 
@@ -28,7 +25,7 @@ This is a Python-based web application that visualizes Azure Identity and Access
 - Python (3.6+ recommended)
 - pip package manager
 
-### Installation
+### Installation / Usage
 
 1. **Clone the repository:**
 
