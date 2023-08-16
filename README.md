@@ -6,13 +6,6 @@ This is a Python-based web application that visualizes Azure Identity and Access
 
 ![Peek 2023-08-16 21-47](https://github.com/mverschu/AzureIAMVisualizer/assets/69352107/eb4223fb-81e3-4e7b-9a1c-c12bd4ea86ba)
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation/Usage](#installation)
-
 ## Features
 
 - Visualize IAM relationships in a Sankey diagram.
@@ -48,3 +41,13 @@ This is a Python-based web application that visualizes Azure Identity and Access
       ```bash
       python app.py iam_data.csv
       ```
+      
+4. **Contributions and Feedback:**
+
+    - Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to create a pull request or submit an issue in this repository.
+
+      1. Fork the repository.
+      2. Create a new branch: `git checkout -b feature/my-feature`.
+      3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+      4. Push the changes to your fork: `git push origin feature/my-feature`.
+      5. Open a pull request in this repository.
