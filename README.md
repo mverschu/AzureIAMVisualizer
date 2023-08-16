@@ -1,4 +1,4 @@
-# Azure IAM Visualization App
+# Azure IAM Visualization
 
 Ever found yourself drowning in the maze of permissions and roles within Azure? It's a headache to explore each resource one by one. But fear not, I got something to make your life easier!
 
