@@ -114,8 +114,8 @@ app.layout = dbc.Container([
         )
     ]),
     dbc.Row([
-        dbc.Col(dcc.Graph(id='sankey-graph'))
-    ])
+        dbc.Col(dcc.Graph(id='sankey-graph', style={'height': 'calc(100vh - 200px)'}))
+    ], style={'margin': 0, 'padding': 0})  # Remove any unwanted margin and padding
 ], fluid=True)
 
 @app.callback(
